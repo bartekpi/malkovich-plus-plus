@@ -1,0 +1,13 @@
+malkovich! malkovichmalkovich, malkovich,
+  malkovich? malkovich malkovich? 0: 0
+  malkovich malkovich? malkovich ? 1: 1
+  malkovich malkovich! malkovichmalkovich(malkovich-1) + malkovichmalkovich(malkovich-2)
+malkovich.
+
+malkovich! malkovich 0
+malkovich malkovich...
+  malkovich! malkovich malkovich + 1
+  malkovich: malkovichmalkovich(malkovich)
+  malkovich? malkovich malkovich? 10:
+    malkovich! malkovich! malkovich!
+malkovich malkovich.

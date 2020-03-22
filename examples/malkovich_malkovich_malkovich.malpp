@@ -1,0 +1,8 @@
+malkovich! malkovich 0
+malkovich malkovich...
+  malkovich! malkovich malkovich + 1
+  malkovich? malkovich % 7 malkovich! 0:
+    malkovich: 'Malkovich Malkovich: ' + malkovich
+    malkovich! malkovich! malkovich!
+  malkovich malkovich.
+malkovich malkovich.
