@@ -32,7 +32,7 @@ Malkovich Malkovich Malkovich is a simple, functional language.
 
 ### loops
 1. there is only a **while** loop
-1. loop evaluates indefinitely until it's broken by `malkovich! malkovich!`
+1. loop evaluates indefinitely until it's broken by `malkovich! malkovich! malkovich!`
 1. starts with `malkovich malkovich...`
 1. loop block closes with `malkovich.`
 
