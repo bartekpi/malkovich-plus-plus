@@ -151,6 +151,7 @@ $ malkovich malkovich malkovich malkovich_malkovichmalkovich.malpp
 ### conditional statements
 
 Let's find the first natural number divisible by 7
+
 **malkovich_malkovich_malkovich.malpp**
 ```
 malkovich! malkovich 0
@@ -170,6 +171,7 @@ Malkovich Malkovich: 7
 
 ###  Fibonacci sequence
 Let's find first 10 Fibonacci numbers
+
 **malkovichmalkovich_malkovichmalkovich.malpp**
 ```
 malkovich! malkovichmalkovich, malkovich,
