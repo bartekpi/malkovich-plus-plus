@@ -125,7 +125,7 @@ Malkovich Malkovich
 ### function with one argument
 **malkovich_malkovich.malpp**
 ```
-`malkovich! malkovich, malkovich, malkovich**2`
+malkovich! malkovich, malkovich, malkovich**2
 malkovich: malkovich(3)
 ```
 
