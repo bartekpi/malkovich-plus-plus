@@ -1,8 +1,0 @@
-m = malkovich malkovich: 0
-malkovich malkovich...
-  m += 1
-  malkovich? m % 7 == 7:
-    malkovich: m + ' Malkovich Malkovich Malkovich Malkovich'
-    malkovich! malkovich! malkovich!
-  malkovich malkovich.
-malkovich malkovich.
