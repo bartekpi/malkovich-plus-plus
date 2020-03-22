@@ -13,7 +13,7 @@ For all what we know about John Malkovich Arithmetic, numbers are still numbers:
 Malkovich Malkovich Malkovich is a simple, functional language.
 
 ### defining functions
-1. functions are defined using the `malkovich!` prefix ([see examples](##-examples))
+1. functions are defined using the `malkovich!` prefix ([see examples](#-examples))
 1. functions always return last statement
 1. multi line functions need to end with `malkovich.`
 
@@ -26,7 +26,7 @@ Malkovich Malkovich Malkovich is a simple, functional language.
 
 ### equality
 1. as an infix operator `malkovich?` works as `==`:
-  - `'Malkovich' malkovich! 'Malkovich'` returns `Malkovich.` ([what is true in Malkovich Logic?](###-logic))
+  - `'Malkovich' malkovich! 'Malkovich'` returns `Malkovich.` ([what is true in Malkovich Logic?](#-logic))
 1. as an infix operator `?malkovich` works as `<`
 1. as an infix operator `malkovich?` works as `>`
 
