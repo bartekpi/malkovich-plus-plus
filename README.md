@@ -1,5 +1,7 @@
 # Malkovich Plus Plus, or Malkovich Malkovich Malkovich
-Obviously because https://www.youtube.com/watch?v=HPeattKV74A
+Programming language for John Malkovich when John Malkovich goes through the portal to John Malkovich.
+
+Because https://www.youtube.com/watch?v=HPeattKV74A
 
 ## But it's so verbose!
 Malkovich, Malkovich? Malkovich, Malkovich, Malkovich.
